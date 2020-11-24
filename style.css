@@ -1,9 +1,35 @@
 /* CSS files add styling rules to your content */
 
-h1 {
-  color: Green  ;
+h1{color: black }
+
+.page1 {background-color: rgb(198, 255, 255);}
+
+p{
+  color:rgb(218, 158, 255)
+    
 }
 
-body {
-  background-color: orange ;
+.hello{
+    
+     text-align:center;
+  
+}
+
+.page2{
+  background-color: rgb(205, 209, 255);
+}
+
+
+.me{
+  
+  text-align:center;
+  
+}
+
+
+.page3{
+  background-color: rgb(255, 203, 255);
+  
+  
+
 }
